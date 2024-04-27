@@ -1,0 +1,22 @@
+{
+  "name": "test-task-wikipedia",
+  "version": "1.0.0",
+  "description": "Test task for covering Wikipedia by Cypress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alionalutsenko1/test-task-wikipedia.git"
+  },
+  "author": "AlionaLutsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alionalutsenko1/test-task-wikipedia/issues"
+  },
+  "homepage": "https://github.com/alionalutsenko1/test-task-wikipedia#readme",
+  "dependencies": {
+    "cypress": "^13.8.1"
+  }
+}
