@@ -16,3 +16,4 @@ For detailed test cases, please see our [Test Cases Spreadsheet](https://docs.go
 ## Running Tests
 - To open Cypress Test Runner: npx cypress open
 - To run tests headlessly: npx cypress run
+- To generate allure report: npx allure serve allure-results
